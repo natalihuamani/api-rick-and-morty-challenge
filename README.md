@@ -1,1 +1,1 @@
-# api-rick-and-morty-challenge
+# api-rick-morty
