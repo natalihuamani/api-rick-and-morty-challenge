@@ -32,6 +32,9 @@ dependencies {
 	developmentOnly("org.springframework.boot:spring-boot-devtools")
 	annotationProcessor("org.springframework.boot:spring-boot-configuration-processor")
 	testImplementation("org.springframework.boot:spring-boot-starter-test")
+	implementation("org.springframework.cloud:spring-cloud-starter-openfeign:3.1.4")
+	testImplementation("io.mockk:mockk:1.13.2")
+	implementation("org.slf4j:slf4j-parent:2.0.3")
 }
 
 dependencyManagement {

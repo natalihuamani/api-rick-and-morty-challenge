@@ -1,0 +1,6 @@
+spring:
+  application.name: rick-morty-api
+  banner: banner.txt
+rick-morty-config:
+  letters: "l"
+  number-locations: 126
